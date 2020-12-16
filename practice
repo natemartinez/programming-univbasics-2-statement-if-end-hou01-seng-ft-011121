@@ -1,0 +1,4 @@
+run_code_inside=true
+if true
+puts "this code can run"
+end 
